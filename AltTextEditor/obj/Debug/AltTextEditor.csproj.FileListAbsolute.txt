@@ -1,0 +1,10 @@
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\bin\Debug\AltTextEditor.exe.config
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\bin\Debug\AltTextEditor.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\bin\Debug\AltTextEditor.pdb
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\obj\Debug\AltTextEditor.Form1.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\obj\Debug\AltTextEditor.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\obj\Debug\AltTextEditor.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\obj\Debug\AltTextEditor.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\AltTextEditor\AltTextEditor\obj\Debug\AltTextEditor.pdb
